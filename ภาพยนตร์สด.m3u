@@ -79,31 +79,7 @@ url:"https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8",
 
 
 {"name":"TVB XING HE","image":"https://cms.dmpcdn.com/livetv/2022/06/01/bcfd3840-e18e-11ec-9395-ffdbbc2b7b61_webp_original.png",url:"https://streaming.livescorethai.net/iptv/sd-tvb.stream/chunks.m3u8","referer": "https://freetvdd.com/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
-
-{
-"name": "Rock Entertainment HD",
-"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-rock-entertainment.webp",
-"url": "https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjM5OjU0IEFNJmhhc2hfdmFsdWU9NzN1MG9JUnA0NXhGWHU4YUowNHAzUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQ5NTkx",
-"referer": "https://wacth.tv",
-"userAgent" : "Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17",
-"info":"(อัพเดท/8/พ.ย/23)",
-"embed":"",
-"isHost":"",
-"kkkk":"true"
-},
-
-{
-"name": "ROCK ACTION HD",
-"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-rock-extreame.webp",
-"imageScale": "fitStart",
-"url": "https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjE0OjUwIEFNJmhhc2hfdmFsdWU9alRQM25tS0NEbDM5cjUzVkExRVpRQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM0MjAw",
-"referer": "https://wacth.tv",
-"userAgent" : "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; .NET4.0C; .NET4.0E; InfoPath.3)",
-"info":"(อัพเดท/8/พ.ย/23)",
-"embed":"",
-"isHost":"",
-"kkkk":"true"
-},
+
 
 {name:"CHANNEL 8",image:"http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8",referer:""},
 
