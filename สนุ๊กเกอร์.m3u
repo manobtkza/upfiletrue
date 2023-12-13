@@ -32,14 +32,7 @@
 "url":"https://ufa77.tv/channel?ch=truesporthd3"},
 
 
-{
-"name": "Sports 7",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
-"imageScale": "fitStart",
-"url": "https://dolive.thaim3u.com/Ece10TvTP0MbOFPFwJDLktgBd5CyfyPd/siamsport-12/playlist.m3u8",
-"referer": "https://ufabetcompany.app/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
-},
+{"name": "Sports 7","image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png","url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-12/playlist.m3u8","referer":"https://ufabetcompany.app/"}, 
 
 {"name":"Sports 7",
 "image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", 
