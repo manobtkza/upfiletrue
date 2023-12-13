@@ -1,0 +1,419 @@
+{
+"name": "กอล์ฟ เทนนิส",
+"author": "Ronnakorn",
+"url": "",
+"info": "Ssk",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCcLE0eAaMu-H5vFqSkm27todQ8xf_Z4stQ&usqp=CAU",
+"stations": [
+{ "name": "โปรแกรม กอล์ฟ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6A95VBdnVfPowH2_EhkqMVdm0YT8zl7UBg&usqp=CAU",
+"url": "https://www.chklive.com/golf/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000" },
+{ "name": "โปรแกรม เทนนิส",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6A95VBdnVfPowH2_EhkqMVdm0YT8zl7UBg&usqp=CAU",
+"url": "https://www.chklive.com/tennis/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000" },
+{
+"name": "Golf Channel",
+"image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/golfchannel.png",
+"imageScale": "fitStart",
+"url": "https://dolive.thaim3u.com/Ece10TvTP0MbOFPFwJDLktgBd5CyfyPd/siamsport-13/playlist.m3u8",
+"referer": "https://ufabetcompany.app/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+
+{"name":"Golf Channel",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/golfchannel.png",
+"url":"https://doball.com/channel/golfchannel"},
+
+
+{"name":"Sports 5",
+"image":"https://iili.io/Wf1Ius.png", 
+"url":"https://dooball2you.com/live/truesport5/"},
+
+
+{"name": "Golf Channel Plus","image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/golf-channel-thailand-plus.jpg","url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/HLS/V0130.m3u8?playbackUrlPrefix=https%3A%2F%2F%24%7BplaybackHost%7D%2Fais%2Fplay%2Forigin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Forigin&tt=b8e476114fe932566d13cdf4cddfc32c&chunkHttps=true&tmid=V0130&tpbk=0kG2o1BRojRT44Zv&rrt=1693556139&rsid=5e88b739-a44f-4040-a180-a8e6e3d005a4&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc%3D&cdn=vimmi-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=origin&tfa=f0-nfc&tttl=1693556643","referer": "https://ais-vidnt.com/"},
+
+
+
+{
+name:"Tennis",
+image:"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/truetennis.png",
+url:"https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+{"name":"Tennis",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/truetennis.png",
+"url":"https://doball.com/channel/truetennis"},
+
+
+{"name": "บีอิน 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8","referer": "https://freetvdd.com"},
+
+
+{"name":"บีอิน 2",
+"image":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
+"url":"https://doball.com/channel/bein2"},
+
+
+
+
+
+
+]
+}
+},
+
+{"name": "บีอิน 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8","referer": "https://freetvdd.com"},
+
+
+{"name":"บีอิน 2",
+"image":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
+"url":"https://doball.com/channel/bein2"},
+
+
+{
+
+
+
+
+"name": "SPOTV","image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv.jpg",
+
+
+
+
+"url":"https://live.vip-streaming.com/dooball123.com/true-spotv-1/playlist.m3u8", "referer": "https://ufabetcompany.com",  "playInNatPlayer": "true"},
+
+
+
+
+
+{"name":"SPOTV",
+
+
+
+
+"image":"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv.jpg",
+
+
+
+
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8",
+
+
+"referer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+{"name": "SPOTV","image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv.jpg","url":"https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=hd-spotv&api_key=n3uf98s","referer":"https://ufanance.co/", "info":"","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+
+
+
+
+"name": "SPOTV 2","image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg",
+
+
+
+
+"url":"https://live.vip-streaming.com/dooball123.com/true-spotv-2/playlist.m3u8", "referer": "https://ufabetcompany.com",  "playInNatPlayer": "true"},
+
+
+
+
+
+
+
+{"name":"SPOTV 2",
+"image":"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg",
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"playInNatPlayer": "true"},
+
+
+{"name": "SPOTV 2","image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg","url":"https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=hd-spotv2&api_key=n3uf98s","referer":"https://ufanance.co/", "info":"","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+
+]
+}"true"},
+
+
+
+
+
+
+]
+}},
+
+
+
+
+]
+}
+
+
+
+]
+}},
+
+
+
+
+]
+}7.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+
+{"name":"SPOTV 2",
+
+
+
+
+"image":"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg",
+
+
+
+
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
+
+
+"referer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+
+
+
+]
+}},
+
+
+
+
+]
+}
+
+
+
+]
+}},
+
+
+
+
+]
+}
+]
+}
+
+
+]
+}layer": "true"},
+
+
+
+
+
+{"name":"SPOTV 2",
+
+
+
+
+"image":"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg",
+
+
+
+
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
+
+
+"referer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+
+
+
+]
+}},
+
+
+
+
+]
+}
+
+
+
+]
+}},
+
+
+
+
+]
+}
+]
+}
+
+
+]
+}
+}
+
+
+]
+}oud.com/dooball2you/spotv2/playlist.m3u8",
+
+
+"referer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+
+
+
+]
+}},
+
+
+
+
+]
+}
+
+
+
+]
+}},
+
+
+
+
+]
+}
+]
+}
+
+
+]
+}layer": "true"},
+
+
+
+
+
+{"name":"SPOTV 2",
+
+
+
+
+"image":"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg",
+
+
+
+
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
+
+
+"referer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+
+
+
+]
+}},
+
+
+
+
+]
+}
+
+
+
+]
+}},
+
+
+
+
+]
+}
+]
+}
+
+
+]
+}
+}
+
+
+]
+}rer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+
+
+
+]
+}},
+
+
+
+
+]
+}
+
+
+
+]
+}},
+
+
+
+
+]
+}
+]
+}
+
+
+]
+}
+}
+
+
+]
+}

@@ -1,0 +1,122 @@
+{
+"name": "True Sports",
+"author": "2023-2024",
+"url": "XXXXXXXX",
+"info": "อัพเดทเรื่อยๆ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQZlSamPXKzVpnvc6PzPw4jEKSaJuTud5l4A&usqp=CAU",
+"stations": [
+
+{
+"name": "Sports 1",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{
+"name": "Sports 2",
+"image": "https://i.imgur.com/YCfLG9x.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{
+"name": "Sports 3",
+"image": "https://i.imgur.com/elHnX4D.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{
+"name": "Sports 5",
+"image": "https://iili.io/Wf1Ius.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name":"Sports 7",
+
+
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", 
+
+
+"url":"https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesport7/"},
+
+
+{"name":"Sports 1",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
+"url":"https://dooball2you.com/live/truesporthd1/"},
+
+{"name":"Sports 2",
+"image":"https://i.imgur.com/YCfLG9x.png", 
+"url":"https://dooball2you.com/live/truesporthd2/"},
+
+{"name":"Sports 3",
+"image":"https://i.imgur.com/elHnX4D.png", 
+"url":"https://dooball2you.com/live/truesporthd3/"},
+
+{"name":"Sports 5",
+"image":"https://iili.io/Wf1Ius.png", 
+"url":"https://dooball2you.com/live/truesport5/"},
+
+{"name":"Sports 7",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", 
+"url":"https://dooball2you.com/live/truesport7/"},
+
+
+{"name": "Sports 1","image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png","url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-8/playlist.m3u8","referer":"https://ufabetcompany.app/"},
+
+
+{"name": "Sports 2","image": "https://i.imgur.com/YCfLG9x.png","url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8","referer":"https://ufabetcompany.app/"},
+
+{"name": "Sports 3","image": "https://i.imgur.com/elHnX4D.png","url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-10/playlist.m3u8","referer":"https://ufabetcompany.app/"},
+
+
+{"name": "Sports 5","image": "https://iili.io/Wf1Ius.png","url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-11/playlist.m3u8","referer":"https://ufabetcompany.app/"},
+
+
+{"name": "Sports 7","image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png","url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-12/playlist.m3u8","referer":"https://ufabetcompany.app/"},
+
+
+
+{"name":"Sports 1",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
+"url":"https://doball.com/channel/truesporthd"},
+
+{"name":"Sports 2",
+"image":"https://i.imgur.com/YCfLG9x.png", 
+"url":"https://doball.com/channel/truesporthd2"},
+
+{"name":"Sports 3",
+"image":"https://i.imgur.com/elHnX4D.png", 
+"url":"https://doball.com/channel/truesporthd3"},
+
+{"name":"Sports 5",
+"image":"https://iili.io/Wf1Ius.png", 
+"url":"https://doball.com/channel/truesport5"},
+
+{"name":"Sports 7",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", 
+"url":"https://doball.com/channel/truesport7"},
+
+
+
+
+
+
+
+
+
+
+
+
+]},
+]},

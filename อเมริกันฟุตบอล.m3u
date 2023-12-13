@@ -1,0 +1,42 @@
+{
+"name": "อเมริกันฟุตบอล",
+"author": "Ronnakorn",
+"url": "XXXXXX",
+"info": "Ssk",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3MRpimeR4wI2f6U1JhaUtZQ-29zXvAHW9A&usqp=CAU",
+"stations": [
+{ "name": "โปรแกรมแข่ง",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3MRpimeR4wI2f6U1JhaUtZQ-29zXvAHW9A&usqp=CAU",
+"url": "https://www.chklive.com/american-football/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000" },
+{
+"name": "Sports 1",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{
+"name": "Sports 2",
+"image": "https://i.imgur.com/YCfLG9x.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name":"Sports 1",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
+"url":"https://dooball2you.com/live/truesporthd1/"
+},
+
+{"name":"Sports 2",
+"image":"https://i.imgur.com/YCfLG9x.png", 
+"url":"https://dooball2you.com/live/truesporthd2/"
+},
+
+]
+}

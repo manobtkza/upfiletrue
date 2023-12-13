@@ -1,0 +1,125 @@
+{
+"name": "แบดมินตัน",
+"author": "Ronnakorn",
+"url": "XXXXXX",
+"info": "Ssk",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQICJJt8OJT9OpbxSpsXZhm5WBiWV7EW21rUA&usqp=CAU",
+"stations": [
+{ "name": "โปรแกรมแข่ง",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQICJJt8OJT9OpbxSpsXZhm5WBiWV7EW21rUA&usqp=CAU",
+"url": "https://www.chklive.com/badminton/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000" },
+{
+"name": "SPOTV ","image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv.jpg",
+"url":"https://cdn1.aws-live-streaming.com/ais/spotv/playlist.m3u8", "referer": "https://aisplay24hd.com/",  "playInNatPlayer": "true"},
+
+{"name":"SPOTV",
+
+
+"image":"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv.jpg",
+
+
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"playInNatPlayer": "true"},
+
+
+{
+"name": "SPOTV 2","image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg",
+"url":"https://cdn1.aws-live-streaming.com/ais/spotv2/playlist.m3u8", "referer": "https://aisplay24hd.com/",  "playInNatPlayer": "true"},
+
+
+
+
+{"name":"SPOTV 2",
+
+
+"image":"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg",
+
+
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"playInNatPlayer": "true"},
+
+
+
+
+{
+"name": "Sports 3",
+"image": "https://i.imgur.com/elHnX4D.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+
+
+{"name":"Sports 7",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", 
+"url":"https://dooball2you.com/live/truesport7/"},
+
+{"name":"Sports 7",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", 
+"url":"https://ufa77.tv/channel?ch=truesport7"},
+
+]
+}/5.2.7.3000"
+
+
+},
+
+
+
+
+{"name":"Sports 7",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", 
+"url":"https://dooball2you.com/live/truesport7/"},
+
+{"name":"Sports 7",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", 
+"url":"https://ufa77.tv/channel?ch=truesport7"},
+
+]
+}hrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+
+
+{"name":"Sports 7",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", 
+"url":"https://dooball2you.com/live/truesport7/"},
+
+{"name":"Sports 7",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", 
+"url":"https://ufa77.tv/channel?ch=truesport7"},
+
+]
+}/5.2.7.3000"
+
+
+},
+
+
+
+
+{"name":"Sports 7",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", 
+"url":"https://dooball2you.com/live/truesport7/"},
+
+{"name":"Sports 7",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", 
+"url":"https://ufa77.tv/channel?ch=truesport7"},
+
+]
+}
+}},
+
+]
+}
+}"},
+
+]
+}
+}
