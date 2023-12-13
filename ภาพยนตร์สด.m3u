@@ -91,14 +91,7 @@ url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 
-
-{
-name:"7Film",
-image:"https://sv1.picz.in.th/images/2022/10/11/pHJhkD.png",
-url:"https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-
+
 
 {"name"		:"MOVIES WORLD 1",
 "image"		: "https://sv1.picz.in.th/images/2022/10/07/p2UNRb.png",
