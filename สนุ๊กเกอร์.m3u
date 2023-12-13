@@ -22,14 +22,7 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
 },
 
-{
-"name": "Sports 3",
-"image": "https://i.imgur.com/elHnX4D.png",
-"imageScale": "fitStart",
-"url": "https://dolive.thaim3u.com/Ece10TvTP0MbOFPFwJDLktgBd5CyfyPd/siamsport-10/playlist.m3u8",
-"referer": "https://ufabetcompany.app/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
-},
+{"name": "Sports 3","image": "https://i.imgur.com/elHnX4D.png","url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-10/playlist.m3u8","referer":"https://ufabetcompany.app/"},
 
 {"name":"Sports 3",
 "image":"https://i.imgur.com/elHnX4D.png", 
