@@ -1,0 +1,156 @@
+{
+"name": "ภาพยนตร์ สด",
+"author": "Ronnakorn",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MXXLN_YM4g2FBxIB6V1NwHeOOV8po4MdPQ&s",
+"url": "XXXXXXXXXX",
+"info": "A",
+"stations":[
+{
+name:"MONO29",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQid5XXTY6E8ThC3T5biEaPmZq0a7HfM8Y8pQ&usqp=CAU",
+url:"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/playlist.m3u8"
+},
+{
+"name"		: "NK",
+"image"		: "https://drive.google.com/uc?id=11veARdCK0lT9yV4Qr6gz-ygGLSbF1tQJ",
+"url"		:  "http://sv1.afdc.live:9898/live/nktv.stream/playlist.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name"		: "Warner TV",
+"image"		: "https://freetvdd.com/wp-content/uploads/2019/12/wb-tv.png",
+"url"		      : "https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
+"referer":"https://freetvdd.com/",
+"info":""
+},
+{
+"name"        : "AXN",
+"image"        : "https://drive.google.com/uc?id=12CvAVMlNROi0GU8sFzcxMiWSqYbnJnua",
+"url":"https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8",
+"referer":"https://freetvdd.com/",
+"info":""
+},
+
+{
+"name"		: "True Film 1",
+"image"		: "https://drive.google.com/uc?id=1bAl_npEE4lrdie0eLSZaPviKeuF626SP",
+url:"https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8",
+"referer": "https://freetvdd.com",
+"info": "",
+"playInNatPlayer": "true" },
+
+
+
+{
+"name"        : "Movie Hits",
+"image"        : "https://drive.google.com/uc?id=1-iv4fES4umIodFOJa1ER3nBhM0hL4KQo",
+"url"		: "https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8",
+"referer": "https://freetvdd.com",
+"info": "",
+"playInNatPlayer": "true" },
+
+{
+"name"		: "Thai Film",
+"image"		: "https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png",
+"url"		:	"https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8",
+"referer": "https://freetvdd.com",
+"info": "",
+"playInNatPlayer": "true" },
+
+
+{"name": "True Film Asia","image": "https://drive.google.com/uc?id=1n3rQ0mV_2AwVpZ2npo-_CEs-dun1aa7H",url:"https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8","referer":"https://freetvdd.com/", "info":"","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name"        : "True Series",
+"image"        : "https://drive.google.com/uc?id=1NS8Gw66ndUz9P-Nv86LkqQJN9yeT2RQU",
+url:"https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8",
+"referer": "https://freetvdd.com",
+"info": "",
+"playInNatPlayer": "true"
+},
+
+{name:"CCM",image:"https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png",url:"https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8","referer":"https://freetvdd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+
+{"name":"TVB XING HE","image":"https://cms.dmpcdn.com/livetv/2022/06/01/bcfd3840-e18e-11ec-9395-ffdbbc2b7b61_webp_original.png",url:"https://streaming.livescorethai.net/iptv/sd-tvb.stream/chunks.m3u8","referer": "https://freetvdd.com/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+
+
+
+{name:"CHANNEL 8",image:"http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8",referer:""},
+
+
+{
+name:"BOX FILM",
+image:"https://sv1.picz.in.th/images/2022/10/11/p8q0vt.png",
+url:"https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+
+{
+name:"7Film",
+image:"https://sv1.picz.in.th/images/2022/10/11/pHJhkD.png",
+url:"https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+
+{"name"		:"MOVIES WORLD 1",
+"image"		: "https://sv1.picz.in.th/images/2022/10/07/p2UNRb.png",
+"url"			: "https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8 ",
+"userAgent"	: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"},
+{
+name:"MOVIES WORLD 3",
+image:"https://sv1.picz.in.th/images/2022/10/07/p2UNRb.png",
+url:"https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+
+{name:"CTB",image:"https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png",url:"http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8","referer": ""},
+{name:"TVB ไทย",image:"https://media-mvtv-app.imgix.net/uploads/channel/89_x_saHpK8xzyeAbF1kVoBEQ7WvjLSrCO6Dq.png",url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8",referer:""},
+
+{"name":"จอมยุทธ์","image": "https://sv1.picz.in.th/images/2022/10/11/p8ZdFa.png","url": "http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8",referer:"www.mvtv.co.th"},
+
+
+
+
+
+
+
+
+
+]
+}1.picz.in.th/images/2022/10/11/pHGfHP.png",url:"http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8","referer": ""},
+{name:"TVB ไทย",image:"https://media-mvtv-app.imgix.net/uploads/channel/89_x_saHpK8xzyeAbF1kVoBEQ7WvjLSrCO6Dq.png",url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8",referer:""},
+{name:"CHANNEL 8",image:"http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8",referer:""},
+{"name":"จอมยุทธ์","image": "https://sv1.picz.in.th/images/2022/10/11/p8ZdFa.png","url": "http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8",referer:"www.mvtv.co.th"},
+
+{name:"CCM",image:"https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png",url:"https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8","referer":"https://freetvdd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+
+{"name":"TVB XING HE","image":"https://cms.dmpcdn.com/livetv/2022/06/01/bcfd3840-e18e-11ec-9395-ffdbbc2b7b61_webp_original.png",url:"https://streaming.livescorethai.net/iptv/sd-tvb.stream/chunks.m3u8","referer": "https://freetvdd.com/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+
+
+
+
+
+
+]
+}VB XING HE","image":"https://cms.dmpcdn.com/livetv/2022/06/01/bcfd3840-e18e-11ec-9395-ffdbbc2b7b61_webp_original.png",url:"https://streaming.livescorethai.net/iptv/sd-tvb.stream/chunks.m3u8","referer": "https://freetvdd.com/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+
+
+
+
+
+
+]
+}
+}

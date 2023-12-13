@@ -1,0 +1,61 @@
+{
+"name": "รวมบอลไทย",
+"author": "Ronnakorn",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png",
+"url": "",
+"info": "Ronnakorn Ssk",
+"stations":[
+
+{"name":"Ball Thai 1","image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png",
+"url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer": "true"},
+{"name":"Ball Thai 2","image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png",
+"url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer": "true"},
+{"name":"Ball Thai 3","image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png",
+"url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer": "true"},
+
+
+{"name": "Ball Thai 4","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png","url": "https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8?playbackUrlPrefix=https%3A%2F%2F%24%7BplaybackHost%7D%2Fais%2Fplay%2Forigin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Forigin&tt=1c035cc16c675734dfde23d2fd1d8595&chunkHttps=true&tmid=TL001&tpbk=4f5TK3N7cg3Z6k7a&rrt=1701702468&rsid=ed09b9f1-f46c-4b7a-b96f-f5d666291f51&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc%3D&cdn=vimmi-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=origin&tfa=f0-nfc&tttl=1701702970","referer": "https://ais-vidnt.com/"},
+
+{"name": "Ball Thai 5","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png","url": "https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8?playbackUrlPrefix=https%3A%2F%2F%24%7BplaybackHost%7D%2Fais%2Fplay%2Forigin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Forigin&tt=1c035cc16c675734dfde23d2fd1d8595&chunkHttps=true&tmid=TL001&tpbk=4f5TK3N7cg3Z6k7a&rrt=1701702468&rsid=ed09b9f1-f46c-4b7a-b96f-f5d666291f51&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc%3D&cdn=vimmi-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=origin&tfa=f0-nfc&tttl=1701702970","referer": "https://ais-vidnt.com/"},
+
+{"name": "Ball Thai 6","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png","url": "https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8?playbackUrlPrefix=https%3A%2F%2F%24%7BplaybackHost%7D%2Fais%2Fplay%2Forigin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Forigin&tt=1c035cc16c675734dfde23d2fd1d8595&chunkHttps=true&tmid=TL001&tpbk=4f5TK3N7cg3Z6k7a&rrt=1701702468&rsid=ed09b9f1-f46c-4b7a-b96f-f5d666291f51&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc%3D&cdn=vimmi-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=origin&tfa=f0-nfc&tttl=1701702970","referer": "https://ais-vidnt.com/"},
+
+
+{"name": "Ball Thai 7","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png","url": "https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8?playbackUrlPrefix=https%3A%2F%2F%24%7BplaybackHost%7D%2Fais%2Fplay%2Forigin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Forigin&tt=1c035cc16c675734dfde23d2fd1d8595&chunkHttps=true&tmid=TL001&tpbk=4f5TK3N7cg3Z6k7a&rrt=1701702468&rsid=ed09b9f1-f46c-4b7a-b96f-f5d666291f51&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc%3D&cdn=vimmi-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=origin&tfa=f0-nfc&tttl=1701702970","referer": "https://ais-vidnt.com/"},
+
+
+{"name": "Ball Thai 8","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png","url": "https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https%3A%2F%2F%24%7BplaybackHost%7D%2Fais%2Fplay%2Forigin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Forigin&tt=1c035cc16c675734dfde23d2fd1d8595&chunkHttps=true&tmid=TL001&tpbk=4f5TK3N7cg3Z6k7a&rrt=1701702468&rsid=ed09b9f1-f46c-4b7a-b96f-f5d666291f51&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc%3D&cdn=vimmi-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=origin&tfa=f0-nfc&tttl=1701702970","referer": "https://ais-vidnt.com/"},
+
+
+
+{"name": "Ball Thai 9","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_9.png","url": "https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL009/HLS/TL009.m3u8?playbackUrlPrefix=https%3A%2F%2F%24%7BplaybackHost%7D%2Fais%2Fplay%2Forigin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Forigin&tt=1c035cc16c675734dfde23d2fd1d8595&chunkHttps=true&tmid=TL001&tpbk=4f5TK3N7cg3Z6k7a&rrt=1701702468&rsid=ed09b9f1-f46c-4b7a-b96f-f5d666291f51&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc%3D&cdn=vimmi-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=origin&tfa=f0-nfc&tttl=1701702970","referer": "https://ais-vidnt.com/"},
+
+
+
+
+
+{"name": "Ball Thai 10","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_10.png","url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL010/HLS/TL010.m3u8?playbackUrlPrefix=https%3A%2F%2F%24%7BplaybackHost%7D%2Fais%2Fplay%2Forigin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Forigin&tt=9aeabf44fd9136700ec5e9226313b6f7&chunkHttps=true&tmid=TL010&tpbk=O8l5ubVcfVpaCpw5&rrt=1701703190&rsid=64276c2c-3499-421b-982b-0a8b6f038e74&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc%3D&cdn=vimmi-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=origin&tfa=f0-nfc&tttl=1701703716","referer": "https://ais-vidnt.com/"},
+
+
+{"name": "Ball Thai 11","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_11.png","url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL011/HLS/TL011.m3u8?playbackUrlPrefix=https%3A%2F%2F%24%7BplaybackHost%7D%2Fais%2Fplay%2Forigin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Forigin&tt=9aeabf44fd9136700ec5e9226313b6f7&chunkHttps=true&tmid=TL010&tpbk=O8l5ubVcfVpaCpw5&rrt=1701703190&rsid=64276c2c-3499-421b-982b-0a8b6f038e74&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc%3D&cdn=vimmi-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=origin&tfa=f0-nfc&tttl=1701703716","referer": "https://ais-vidnt.com/"},
+
+
+{"name": "Ball Thai 12","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_12.png","url": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL012/HLS/TL012.m3u8?playbackUrlPrefix=https%3A%2F%2F%24%7BplaybackHost%7D%2Fais%2Fplay%2Forigin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Forigin&tt=9aeabf44fd9136700ec5e9226313b6f7&chunkHttps=true&tmid=TL010&tpbk=O8l5ubVcfVpaCpw5&rrt=1701703190&rsid=64276c2c-3499-421b-982b-0a8b6f038e74&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc%3D&cdn=vimmi-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=origin&tfa=f0-nfc&tttl=1701703716","referer": "https://ais-vidnt.com/"},
+
+
+
+
+
+
+
+]}
+
+
+
+]}

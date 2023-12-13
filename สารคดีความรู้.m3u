@@ -1,0 +1,127 @@
+{
+"name"		: "สารคดีทีวี",
+"author"	: "Ronnakorn ",
+"image"		: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQTHyury_fpi3_SeQUA7phguY8bsB9ltUQg&usqp=CAU",
+stations	: [
+
+{
+"name": "สำรวจโลก",
+"image": "https://dl.dropbox.com/s/zpf1x9blccdl6m7/samrujlok.png?dl=0",
+"url": "https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"desktop": "true"
+},
+{
+"name": "BBC Earth ",
+"image":"https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8", "referer": "https://freetvdd.com", "playInNatPlayer": "true"},
+
+
+
+{
+"name": "Discovery Asia",
+"image": "https://freetvdd.com/wp-content/uploads/2019/12/asia-discovery.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8", "referer": "https://freetvdd.com/", "info": "", "playInNatPlayer": "true"},
+
+{
+"name": "True Explore Wild",
+"image": "https://freetvdd.com/wp-content/uploads/2019/12/true-explore-wild.png",
+"url":"https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8",
+"referer": "https://freetvdd.com", "info": "", "desktop": "true"},
+
+{
+"name":"History HD",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMc20O2S10nK7ukgdo-Me_tybueDcuhM0OQ&usqp=CAU",
+"url":"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8", "referer": "https://freetvdd.com/", "info": "", "playInNatPlayer": "true"},
+
+{
+"name":"True X-ZYTE",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFu-ggJnM8x4uKDBmUcNwYWrATriPu4yrIuQ&usqp=CAU",
+"url":"https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/", "info": "", "desktop": "true"},
+
+
+
+
+]
+}/playerembed-lb.blackboxsys.net/player_p2p.php?channel=sd-animalplanet&api_key=n3uf98s",
+"referer": "https://ufanance.co",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "LOVENATURE",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQCmPvCmHE0N_MKGj9_amHnzeYyP_BnYVptQ&usqp=CAU",
+"url": "https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=th-lovenature&api_key=n3uf98s",
+"referer": "https://ufanance.co/",
+"playInNatPlayer": "true"},
+
+
+{
+"name": "True Explorer LIFE",
+"image": "https://www.lyngsat.com/logo/tv/tt/true_explore_life.png",
+"url": "https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=th-explife&api_key=n3uf98s",
+"referer": "https://ufanance.co/",
+"playInNatPlayer": "true"},
+
+{
+"name": "True Explorer SCI",
+"image": "https://www.lyngsat.com/logo/tv/tt/true_explore_sci.png",
+"url": "https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=th-expsci&api_key=n3uf98s",
+"referer": "https://ufanance.co/",
+"playInNatPlayer": "true"},
+
+{
+"name": "Outdoor",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeYmF-NCU6ceLr-qsChLDl0Y9ik6vZnT73qQ&usqp=CAU",
+"url": "https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=th-outdoor&api_key=n3uf98s",
+"referer": "https://ufanance.co/",
+"playInNatPlayer": "true"},
+
+{
+"name": "Crime",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4MVnY-6gohPM_zGn3G_8IJAJ5lwRI1Wp5g&usqp=CAU",
+"url": "https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=sd-ci&api_key=n3uf98s",
+"referer": "https://ufanance.co/",
+"playInNatPlayer": "true"},
+
+
+
+
+]
+}e"},
+
+
+
+
+]
+}ue"},
+
+
+
+
+]
+}tbn:ANd9GcTz4MVnY-6gohPM_zGn3G_8IJAJ5lwRI1Wp5g&usqp=CAU",
+"url": "https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=sd-ci&api_key=n3uf98s",
+"referer": "https://ufanance.co/",
+"playInNatPlayer": "true"},
+
+
+
+
+]
+}e"},
+
+
+
+
+]
+}ue"},
+
+
+
+
+]
+}
