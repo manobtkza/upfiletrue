@@ -1,0 +1,954 @@
+{
+"name": "Ronnakorn",
+"author": "2023-2024",
+"url": "XXXXXXXX",
+"info": "ร้าน Ronnakorn Ssk",
+"image": "https://media4.giphy.com/media/S5JU495dVoUXounSq5/giphy.gif?cid=6c09b9524ac36bf91a467dc88da2e0e5e768d83f62a46121&rid=giphy.gif&ct=s",
+"stations": [
+
+
+{"name":"โปรแกรมแข่ง", "image":"https://dooball168-hd.com/img/logo/logo.png", "url":"https://dooball168-hd.com/index.php", "embed": true},
+
+
+{"name"          :  "พรีเมียร์ลีก 1",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-1.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+
+{"name"          :  "พรีเมียร์ลีก 1",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-1.png",
+"url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8",
+"referer"        :  "https://dooball2you.com/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+{"name"          :  "พรีเมียร์ลีก 1",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-1.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8",
+"referer"        :  "https://livescorethai.net/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+
+{"name"          :  "พรีเมียร์ลีก 1",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-1.png",
+"url"            :  "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8",
+"referer"        :  "https://ufabetcompany.app/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+
+{
+"name": "พรีเมียร์ลีก 1",
+"image": "https://api.blackboxsys.net/images/png/epl-1.png",
+"url": "https://ctrl.laotv.la/live/TSport1/index.m3u8",
+"embed": "","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+
+
+
+{
+"name": "พรีเมียร์ลีก 1",
+"image": "https://api.blackboxsys.net/images/png/epl-1.png",
+"url": "https://wacthstream.com/stream_live/600_eng1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjI5OjQ3IEFNJmhhc2hfdmFsdWU9Y28xT1ZwVCszd0JDMjB0VU5ERzU2UT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzkzMTkz",
+"referer"        :  "https://wacth.tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+
+
+
+
+
+{"name":"พรีเมียร์ลีก 1 ",
+"image":"https://api.blackboxsys.net/images/png/epl-1.png", "info" : "",
+"url":"https://dookeela.live/football/match/198661"},
+
+
+{"name":"พรีเมียร์ลีก 1 ",
+"image":"https://api.blackboxsys.net/images/png/epl-1.png", "info" : "",
+"url":"https://ufa77.tv/channel?ch=epl1"},
+
+
+
+{"name":"พรีเมียร์ลีก 1 ",
+"image":"https://api.blackboxsys.net/images/png/epl-1.png", "info" : "",
+"url":"https://doball.com/channel/epl1"},
+
+
+
+{"name"          :  "พรีเมียร์ลีก 2",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-2.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+{"name"          :  "พรีเมียร์ลีก 2",
+
+
+"image"          :  "https://api.blackboxsys.net/images/png/epl-2.png",
+
+
+"url"            :  "https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8",
+
+
+"referer"        :  "https://livescorethai.net/",
+
+
+"info" : "",
+
+
+"playInNatPlayer": "true"},
+
+
+
+{"name"          :  "พรีเมียร์ลีก 2",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-2.png",
+"url"            :  "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/chunks.m3u8",
+"referer"        :  "https://ufabetcompany.app/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+{"name"          :  "พรีเมียร์ลีก 2",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-2.png",
+"url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8",
+"referer"        :  "https://dooball2you.com/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+
+{"name":"พรีเมียร์ลีก 2 ",
+"image":"https://api.blackboxsys.net/images/png/epl-2.png", 
+"url":"https://doball.com/channel/epl2"},
+
+
+
+{
+"name": "พรีเมียร์ลีก 2",
+"image": "https://api.blackboxsys.net/images/png/epl-2.png",
+"url": "https://ctrl.laotv.la/live/TSport2/index.m3u8",
+"embed": "","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+
+{
+"name": "พรีเมียร์ลีก 2",
+"image": "https://api.blackboxsys.net/images/png/epl-2.png",
+"url": "https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=epl-2&api_key=n3uf98s","referer": "https://ufanance.co",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+
+{
+name:"พรีเมียร์ลีก 3 ",
+image:"https://api.blackboxsys.net/images/png/epl-3.png",
+url:"https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+{"name"          :  "พรีเมียร์ลีก 3",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-3.png",
+"url"            :  "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8",
+"referer"        :  "https://ufabetcompany.app/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+
+
+{"name"          :  "พรีเมียร์ลีก 3",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-3.png",
+"url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8",
+"referer"        :  "https://dooball2you.com/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+{
+name:"พรีเมียร์ลีก 4 ",
+image:"https://api.blackboxsys.net/images/png/epl-4.png",
+url:"https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+
+
+{"name"          :  "พรีเมียร์ลีก 4",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-4.png",
+"url"            :  "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8",
+"referer"        :  "https://ufabetcompany.app/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+{"name"          :  "พรีเมียร์ลีก 4",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-4.png",
+"url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8",
+"referer"        :  "https://dooball2you.com/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+{
+name:"พรีเมียร์ลีก 5 ",
+image:"https://api.blackboxsys.net/images/png/epl-5.png",
+url:"https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+
+{"name"          :  "พรีเมียร์ลีก 5",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-5.png",
+"url"            :  "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8",
+"referer"        :  "https://ufabetcompany.app/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+{"name"          :  "พรีเมียร์ลีก 5",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-5.png",
+"url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8",
+"referer"        :  "https://dooball2you.com/",
+"info" : "",
+"playInNatPlayer": "true"},
+
+{
+
+
+"name": "Sports 2",
+
+
+"image": "https://i.imgur.com/YCfLG9x.png",
+
+
+"imageScale": "fitStart",
+
+
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8",
+
+
+"referer": "https://streaming.livescorethai.net/",
+
+
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+
+
+},
+
+
+
+
+{
+name:"บีอิน 1",
+image:"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+url:"https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+name:"บีอิน 3",
+image:"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+url:"https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+name:"บีอิน 1",
+image:"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+url:"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+{
+name:"บีอิน 3",
+image:"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+url:"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+{
+"name": "บีอิน 1",
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+"imageScale": "fitStart",
+"url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-6/playlist.m3u8",
+"referer": "https://ufabetcompany.app/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+{
+"name": "บีอิน 3",
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+"imageScale": "fitStart",
+"url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m3u8",
+"referer": "https://ufabetcompany.app/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+
+{"name":"บีอิน 1",
+"image":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+"url":"https://doball.com/channel/bein1"},
+
+{"name":"บีอิน 3",
+"image":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+"url":"https://doball.com/channel/bein3"},
+
+
+
+
+{
+
+
+"name": "SPL ซาอุฯ 🇸🇦","image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv.jpg",
+
+
+"url":"https://cdn1.aws-live-streaming.com/ais/spotv/playlist.m3u8", "referer": "https://aisplay24hd.com/",  "playInNatPlayer": "true"},
+
+
+
+{"name":"SPL ซาอุฯ 🇸🇦",
+
+
+"image":"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv.jpg",
+
+
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8",
+
+
+"referer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+
+
+{
+
+
+"name": "SPL ซาอุฯ 🇸🇦","image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg",
+
+
+"url":"https://cdn1.aws-live-streaming.com/ais/spotv2/playlist.m3u8", "referer": "https://aisplay24hd.com/",  "playInNatPlayer": "true"},
+
+
+
+
+
+
+{"name":"SPL ซาอุฯ 🇸🇦",
+
+
+"image":"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg",
+
+
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
+
+
+"referer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},
+
+"referer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},erer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},
+
+
+
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},,
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},erer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},
+
+
+
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},,
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},erer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},
+
+
+
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},layer": "true"},
+
+
+
+]},
+
+
+
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},,
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},erer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},
+
+
+
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+]},
+]},,
+]},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+]},
+]},,
+]},��น 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png","url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/HLS/S0007.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278","referer": "https://ais-vidnt.com/"},
+
+{
+
+
+"name": "SPL ซาอุฯ 🇸🇦","image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv.jpg",
+
+
+"url":"https://live.vip-streaming.com/dooball123.com/true-spotv-1/playlist.m3u8", "referer": "https://dooball123.com/",  "playInNatPlayer": "true"},
+
+
+
+{"name":"SPL ซาอุฯ 🇸🇦",
+
+
+"image":"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv.jpg",
+
+
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8",
+
+
+"referer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+
+
+{
+
+
+"name": "SPL ซาอุฯ 🇸🇦","image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg",
+
+
+"url":"https://live.vip-streaming.com/dooball123.com/true-spotv-2/playlist.m3u8", "referer": "https://dooball123.com/",  "playInNatPlayer": "true"},
+
+
+
+
+
+
+{"name":"SPL ซาอุฯ 🇸🇦",
+
+
+"image":"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg",
+
+
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
+
+
+"referer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},
+
+"referer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},erer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},
+
+
+
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},,
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},erer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},
+
+
+
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},,
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},erer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},
+
+
+
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},layer": "true"},
+
+
+
+]},
+
+
+
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},,
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},erer": "https://dooball2you.com/",
+
+
+"playInNatPlayer": "true"},
+
+
+
+]},
+
+
+
+]},
+
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+]},
+]},,
+]},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+]},
+]},,
+]},},
+
+]},
+]},,
+]},,,
+]},},
+
+]},
+]},,
+]},
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+]},
+]},,
+]},},
+
+]},
+]},,
+]},,,
+]},},
+
+]},
+]},,
+]},},e"},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+]},
+]},,
+]},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+
+]},e"},
+
+
+
+]},
+]},,
+]},e"},
+
+
+
+]},
+]},,
+]},
+
+]},
+]},,
+]},},
+
+]},
+]},,
+]},,,
+]},},
+
+]},
+]},,
+]},,,
+]},},
+
+]},
+]},,
+]},
