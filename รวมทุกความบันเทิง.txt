@@ -1,0 +1,26 @@
+{
+"name": "รวมทุกความบันเทิง",
+"author": "Ronnakorn Ssk",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV5zwbh1dl1UaCqk1vlKrer_q51bwxAHVFew&usqp=CAU",
+"url": "https://dl.dropbox.com/scl/fi/y6mehqmjsiicahp3wfo4z/.txt?rlkey=4tvmp3ildp9hdtzgr60q9lita&dl=0",
+"groups": [
+
+
+{"name": "รวมความบันเทิง","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV5zwbh1dl1UaCqk1vlKrer_q51bwxAHVFew&usqp=CAU","imageScale": "center","url": "https://bit.ly/ronnakornlist","import": false},],"stations": [{"name": "กดรีเฟรชมุมบนขวา","image": "https://dl.dropbox.com/scl/fi/fujn88ix9mksg0n5j5v9t/re.jpg?rlkey=duyzqulrw4e7tfsl6xm29qq4a&dl=0","imageScale": "center","info": "เพื่ออัปเดตทุกๆครั้งครับ","import": false}]}
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+<title>Ronnakorn Ssk</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Ronnakorn Ssk">
+<meta name="author" content="Ronnakorn Ssk">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="0;url=https://dl.dropbox.com/scl/fi/y6mehqmjsiicahp3wfo4z/.txt?rlkey=4tvmp3ildp9hdtzgr60q9lita&dl=0">
+</head>
+<body bgcolor="000000">
+<center>
+<h2><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Youtube_loading_symbol_1_(wobbly).gif"></h2>
+</center>
+</body>
+</html>
