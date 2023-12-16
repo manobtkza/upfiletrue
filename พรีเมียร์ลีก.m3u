@@ -57,7 +57,12 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
 
-
+{"name"          :  "พรีเมียร์ลีก 1",
+"image"          :  "https://api.blackboxsys.net/images/png/epl-1.png",
+"url"            :  "https://cdn.dooball66.xyz/ballmun_live/sd1/playlist.m3u8",
+"referer"        :  "https://ballmun.com",
+"info" : "",
+"playInNatPlayer": "true"},
 
 
 
@@ -65,11 +70,7 @@
 "image":"https://api.blackboxsys.net/images/png/epl-1.png", "info" : "",
 "url":"https://dookeela.live/football/match/198661"},
 
-
-{"name":"พรีเมียร์ลีก 1 ",
-"image":"https://api.blackboxsys.net/images/png/epl-1.png", "info" : "",
-"url":"https://ufa77.tv/channel?ch=epl1"},
-
+
 
 
 {"name":"พรีเมียร์ลีก 1 ",
