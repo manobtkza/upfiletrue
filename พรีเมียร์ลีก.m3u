@@ -80,7 +80,7 @@
 
 
 {"name"          :  "พรีเมียร์ลีก 2",
-"image"          :  "https://api.blackboxsys.net/images/png/epl-2.png",
+"image"          :  "https://dookeela.live/uploads/1664499673.png",
 "url"            :  "https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8",
 "referer"        :  "https://streaming.livescorethai.net/",
 "info" : "",
@@ -89,7 +89,7 @@
 {"name"          :  "พรีเมียร์ลีก 2",
 
 
-"image"          :  "https://api.blackboxsys.net/images/png/epl-2.png",
+"image"          :  "https://dookeela.live/uploads/1664499673.png",
 
 
 "url"            :  "https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8",
@@ -106,14 +106,14 @@
 
 
 {"name"          :  "พรีเมียร์ลีก 2",
-"image"          :  "https://api.blackboxsys.net/images/png/epl-2.png",
+"image"          :  "https://dookeela.live/uploads/1664499673.png",
 "url"            :  "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/chunks.m3u8",
 "referer"        :  "https://ufabetcompany.app/",
 "info" : "",
 "playInNatPlayer": "true"},
 
 {"name"          :  "พรีเมียร์ลีก 2",
-"image"          :  "https://api.blackboxsys.net/images/png/epl-2.png",
+"image"          :  "https://dookeela.live/uploads/1664499673.png",
 "url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8",
 "referer"        :  "https://dooball2you.com/",
 "info" : "",
@@ -121,35 +121,35 @@
 
 
 {"name":"พรีเมียร์ลีก 2 ",
-"image":"https://api.blackboxsys.net/images/png/epl-2.png", 
+"image":"https://dookeela.live/uploads/1664499673.png", 
 "url":"https://doball.com/channel/epl2"},
 
 
 
 {
 "name": "พรีเมียร์ลีก 2",
-"image": "https://api.blackboxsys.net/images/png/epl-2.png",
+"image": "https://dookeela.live/uploads/1664499673.png",
 "url": "https://ctrl.laotv.la/live/TSport2/index.m3u8",
 "embed": "","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
 
 {
 "name": "พรีเมียร์ลีก 2",
-"image": "https://api.blackboxsys.net/images/png/epl-2.png",
+"image": "https://dookeela.live/uploads/1664499673.png",
 "url": "https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=epl-2&api_key=n3uf98s","referer": "https://ufanance.co",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
 
 {
 name:"พรีเมียร์ลีก 3 ",
-image:"https://api.blackboxsys.net/images/png/epl-3.png",
+image:"https://dookeela.live/uploads/1664499681.png",
 url:"https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8",
 "referer": "https://streaming.livescorethai.net/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 
 {"name"          :  "พรีเมียร์ลีก 3",
-"image"          :  "https://api.blackboxsys.net/images/png/epl-3.png",
+"image"          :  "https://dookeela.live/uploads/1664499681.png",
 "url"            :  "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8",
 "referer"        :  "https://ufabetcompany.app/",
 "info" : "",
@@ -158,7 +158,7 @@ url:"https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8",
 
 
 {"name"          :  "พรีเมียร์ลีก 3",
-"image"          :  "https://api.blackboxsys.net/images/png/epl-3.png",
+"image"          :  "https://dookeela.live/uploads/1664499681.png",
 "url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8",
 "referer"        :  "https://dooball2you.com/",
 "info" : "",
@@ -166,7 +166,7 @@ url:"https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8",
 
 {
 name:"พรีเมียร์ลีก 4 ",
-image:"https://api.blackboxsys.net/images/png/epl-4.png",
+image:"https://dookeela.live/uploads/1664499692.png",
 url:"https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8",
 "referer": "https://streaming.livescorethai.net/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
@@ -175,14 +175,14 @@ url:"https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8",
 
 
 {"name"          :  "พรีเมียร์ลีก 4",
-"image"          :  "https://api.blackboxsys.net/images/png/epl-4.png",
+"image"          :  "https://dookeela.live/uploads/1664499692.png",
 "url"            :  "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8",
 "referer"        :  "https://ufabetcompany.app/",
 "info" : "",
 "playInNatPlayer": "true"},
 
 {"name"          :  "พรีเมียร์ลีก 4",
-"image"          :  "https://api.blackboxsys.net/images/png/epl-4.png",
+"image"          :  "https://dookeela.live/uploads/1664499692.png",
 "url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8",
 "referer"        :  "https://dooball2you.com/",
 "info" : "",
@@ -190,7 +190,7 @@ url:"https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8",
 
 {
 name:"พรีเมียร์ลีก 5 ",
-image:"https://api.blackboxsys.net/images/png/epl-5.png",
+image:"https://dookeela.live/uploads/1664499700.png",
 url:"https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8",
 "referer": "https://streaming.livescorethai.net/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
@@ -198,14 +198,14 @@ url:"https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8",
 
 
 {"name"          :  "พรีเมียร์ลีก 5",
-"image"          :  "https://api.blackboxsys.net/images/png/epl-5.png",
+"image"          :  "https://dookeela.live/uploads/1664499700.png",
 "url"            :  "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8",
 "referer"        :  "https://ufabetcompany.app/",
 "info" : "",
 "playInNatPlayer": "true"},
 
 {"name"          :  "พรีเมียร์ลีก 5",
-"image"          :  "https://api.blackboxsys.net/images/png/epl-5.png",
+"image"          :  "https://dookeela.live/uploads/1664499700.png",
 "url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8",
 "referer"        :  "https://dooball2you.com/",
 "info" : "",
